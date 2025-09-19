@@ -6,7 +6,7 @@
 		<img class="banner" src="../../static/banner.jpg" alt="">
 		<view class="_ul">
 			<view class="_li">
-				<text>地址：上海大学宠物店</text><br/>
+				<text>地址：宠物店</text><br/>
 				<text class="time">预约时间：09:00:00 - 22:00:00</text><br/>
 				<text class="time">营业时间：09:00:00 - 22:00:00</text>
 			</view>
