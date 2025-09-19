@@ -1,0 +1,6 @@
+{
+  "devDependencies": {
+    "mpvue-loader": "^2.0.1",
+    "postcss-mpvue-wxss": "^1.0.2"
+  }
+}
